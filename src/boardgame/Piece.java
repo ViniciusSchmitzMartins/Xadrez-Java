@@ -2,7 +2,7 @@ package boardgame;
 
 public class Piece {
 	
-	protected Position position;
+	protected Position position;  //posição da matri\
 	
 	private Board board;
 
